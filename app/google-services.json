@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713509883291",
+    "project_id": "let-s-call-9e178",
+    "storage_bucket": "let-s-call-9e178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713509883291:android:4790457aff1264f38d253e",
+        "android_client_info": {
+          "package_name": "com.example.letscall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713509883291-rfl93g5n9nmhqghj6e2gjr6eaa684v2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJRMkTABTYMc-kJaOeT8FfSTt5QtQsNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713509883291-rfl93g5n9nmhqghj6e2gjr6eaa684v2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
